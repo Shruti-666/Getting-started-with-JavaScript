@@ -9,3 +9,6 @@ console.log("Hello world\nShruti\tVats")
 //string constructor
  var y = new String("Shruti")
  console.log(y);
+
+ // String functions 
+ 
